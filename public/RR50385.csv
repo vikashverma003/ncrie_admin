@@ -1,0 +1,2 @@
+PID,Day,Type,Question,ThreatWord,NeutralWord,Probe,ThreatPosition,ProbePosition,ProbeSelected,Response,ResponseTime,created_at
+RR50385,0,Q&A,working,None,None,None,None,None,None,Yes,None,1602257519657

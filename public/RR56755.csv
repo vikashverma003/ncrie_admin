@@ -1,0 +1,2 @@
+PID,Day,Type,Question,ThreatStimuli,NeutralStimuli,Probe,ThreatPosition,ProbePosition,ProbeSelected,Response,ResponseTime,created_at
+RR56755,0,Q&A,"Is the sky blue?",None,None,None,None,None,None,yes,None,"20-10-2020  13:53:35"

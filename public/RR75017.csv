@@ -1,0 +1,6 @@
+PID,Day,Type,Question,ThreatStimuli,NeutralStimuli,Probe,ThreatPosition,ProbePosition,ProbeSelected,Response,ResponseTime,created_at
+RR75017,0,Q&A,"what is your name?",None,None,None,None,None,None,Vishal,None,"12-10-2020  10:01:23"
+RR75017,2,Q&A,"what is your plan for today??",None,None,None,None,None,None,nothing,None,"12-10-2020  10:06:13"
+RR75017,2,Q&A,"what is your plan for today??",None,None,None,None,None,None,nothing,None,"12-10-2020  10:06:13"
+RR75017,2,Q&A,"what is your plan for today??",None,None,None,None,None,None,nothing,None,"12-10-2020  10:06:13"
+RR75017,2,Q&A,"what is your plan for today??",None,None,None,None,None,None,nothing,None,"12-10-2020  10:06:13"

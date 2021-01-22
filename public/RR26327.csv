@@ -1,0 +1,4 @@
+PID,Day,Type,Question,ThreatStimuli,NeutralStimuli,Probe,ThreatPosition,ProbePosition,ProbeSelected,Response,ResponseTime,created_at
+RR26327,0,Q&A,"??????? u know",None,None,None,None,None,None,What???,None,"20-10-2020  13:48:58"
+RR26327,1,Q&A,"HOW'S THE WEATHER ?",None,None,None,None,None,None,Good,None,"20-10-2020  13:50:09"
+RR26327,1,Q&A,bvcvbcbvc,None,None,None,None,None,None,5,None,"20-10-2020  13:50:09"

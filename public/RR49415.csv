@@ -1,0 +1,3 @@
+PID,Day,Type,Question,ThreatWord,NeutralWord,Probe,ThreatPosition,ProbePosition,ProbeSelected,Response,ResponseTime,created_at
+RR49415,0,Q&A,"Are trees green?",None,None,None,None,None,None,yes,None,"16-10-2020  21:12:17"
+RR49415,0,Q&A,"Is the sky blue?",None,None,None,None,None,None,yes,None,"16-10-2020  21:12:17"
